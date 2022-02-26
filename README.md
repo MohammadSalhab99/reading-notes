@@ -10,7 +10,7 @@ here you can find what I have learnt during this course.</h5>
 <br>
 
 
-## Code 102 - Intro to Software Developmen
+## Code 102 - Intro to Software Development
 <br>
 
 ## Code 201 - Foundations of Software Development
