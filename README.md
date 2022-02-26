@@ -2,6 +2,9 @@
 
 # Reading Notes
 ## Discription
+Hello 
+This is my Raeding Notes for My software development course here you can find what I have learnt during this course.
+<br>
 
 
 
