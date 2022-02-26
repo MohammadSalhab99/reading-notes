@@ -36,3 +36,35 @@ here you can find what I have learnt during this course.</h5>
 ![tasks16](https://user-images.githubusercontent.com/61474974/155849768-454d4862-7022-4f48-b7d5-50572f8e59a0.PNG)
 ![tasks17](https://user-images.githubusercontent.com/61474974/155849770-3d32e3e3-eb17-478a-8540-22966c0cb47a.PNG)
 ![tasks18](https://user-images.githubusercontent.com/61474974/155849773-8acea8bb-1878-48bd-9437-48bc11c605a0.PNG)
+
+## Terminal Notes
+In Navigation section I learnt three command :
+pwd:Print Working Directory which gives you the path where you currently in .
+ls : gives you the list of files and directories in the current directory.
+cd : to navigate between directories and files.
+
+In More about files section I learnt two commands : 
+file : which gives you the information about what type of file or directory is .
+ls -a : list the contents of directory including the hidden files.
+
+In manual section I learnt this commands : 
+man :Look up the manual page for a particular command.
+man -k:Do a keyword search for all manual pages containing the given search term.
+
+n: After performing a search within a manual page, select the next found item.
+
+In file manipulation part I learnt how to remove directory using "rmdir" command and other commands like:
+mkdir: Make Directory - ie. Create a directory.
+
+touch: Create a blank file.
+cp :Copy - ie. Copy a file or directory.
+mv :Move - ie. Move a file or directory (can also be used to rename).
+rm :Remove - ie. Delete a file.
+
+In vi text editor I learnt this command for editing text : 
+vi :Edit a file.
+cat: View a file.
+less :Convenient for viewing large files.
+
+
+
