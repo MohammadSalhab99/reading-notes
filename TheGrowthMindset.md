@@ -5,8 +5,9 @@ a growth mindset believes that ability can be further developed.
 
 I agree with professor Dweck about the growth mindset, I think we should all have the this mind set to develop in our careers and life .
 ## Emotional Intellegnec
-I got 16 in self awarness , 14 in Self Mangagment , 22 in Social Awarness and 18 in Relationship Managment,
-I think I should imporve my self awarness and self managment a little
-and to decrease my social awarness a little.
+I got 16 in self awarness , 14 in Self Mangagment ,<br>
+22 in Social Awarness and 18 in Relationship Managment,<br>
+I think I should imporve my self awarness and self managment a little<br>
+and to decrease my social awarness a little.<br>
 ## Assessing Bias
 ![biases](https://user-images.githubusercontent.com/61474974/155858534-dcbf3f70-065c-4dca-b2cd-74083ac26a01.PNG)
