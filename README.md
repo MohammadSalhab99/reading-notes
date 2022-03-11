@@ -22,11 +22,7 @@ here you can find what I have learnt during this course.</h5>
 ## Code 401 - Advanced Software Development
 <br>
 
-##SQL Practice
-
-
-## Terminal Notes
-
+##Table of content
 
 | SQL Practice      | Terminal Notes          | The growth mindset          |
 | ------------- |:-------------:| :-------:|
