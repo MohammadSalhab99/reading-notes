@@ -27,3 +27,8 @@ here you can find what I have learnt during this course.</h5>
 
 ## Terminal Notes
 
+
+| SQL Practice      | Terminal Notes          | Cool  |
+| ------------- |:-------------:| -----:|
+| https://github.com/MohammadSalhab99/reading-notes/blob/main/SQL-Read.md    | https://github.com/MohammadSalhab99/reading-notes/blob/main/Terminal%20Notes.md| $1600 |
+
