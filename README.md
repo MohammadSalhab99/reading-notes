@@ -28,7 +28,7 @@ here you can find what I have learnt during this course.</h5>
 ## Terminal Notes
 
 
-| SQL Practice      | Terminal Notes          | Cool  |
+| SQL Practice      | Terminal Notes          | The growth mindset  |
 | ------------- |:-------------:| -----:|
 | https://github.com/MohammadSalhab99/reading-notes/blob/main/SQL-Read.md    | https://github.com/MohammadSalhab99/reading-notes/blob/main/Terminal%20Notes.md| https://github.com/MohammadSalhab99/reading-notes/blob/main/TheGrowthMindset.md |
 
