@@ -1,3 +1,24 @@
+# SQL Reading 
+SQl is an abbreviation of Structured Query Language, it is a language designed to allow both technical and no-technical useres query, manipulate and transform data from a relational database, and SQL databases provide a safe storage for million websites and mobile applications.
+Relational database represents a collection of related tables.
+
+## SQL Commands
+
+* SELECT - extracts data from a database
+* UPDATE - updates data in a database
+* DELETE - deletes data from a database
+* INSERT INTO - inserts new data into a database
+* CREATE DATABASE - creates a new database
+* ALTER DATABASE - modifies a database
+* CREATE TABLE - creates a new table
+* ALTER TABLE - modifies a table
+* DROP TABLE - deletes a table
+* CREATE INDEX - creates an index (search key)
+* DROP INDEX - deletes an index
+* WEHRE - filter the rows
+* order by - order the row alphibatically
+* Limit and offset -specifies the limit of the rows and offset specifies from any column to start
+
 
 ![finished](https://user-images.githubusercontent.com/61474974/155849755-895b8c5b-f55b-4d15-bc2d-9dcb6893d9e9.PNG)
 ![Task5](https://user-images.githubusercontent.com/61474974/155849757-6a4f689d-26df-4df8-b311-b22c4684764a.PNG)
