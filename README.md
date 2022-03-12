@@ -24,7 +24,7 @@ here you can find what I have learnt during this course.</h5>
 
 ## Table of content
 
-| SQL Practice      | Terminal Notes          | The growth mindset          |  Intro to python        |
-| ------------- |:-------------:| :-------:|  :-------:|
-| https://github.com/MohammadSalhab99/reading-notes/blob/main/SQL-Read.md    | https://github.com/MohammadSalhab99/reading-notes/blob/main/Terminal%20Notes.md| https://github.com/MohammadSalhab99/reading-notes/blob/main/TheGrowthMindset.md | https://github.com/MohammadSalhab99/reading-notes/blob/main/intro-to-python-notes
+| SQL Practice      | Terminal Notes          | The growth mindset          |  Read:Class01| Read: Class06 |
+| ------------- |:-------------:| :-------:|  :-------:| :-------:|
+| https://github.com/MohammadSalhab99/reading-notes/blob/main/SQL-Read.md    | https://github.com/MohammadSalhab99/reading-notes/blob/main/Terminal%20Notes.md| https://github.com/MohammadSalhab99/reading-notes/blob/main/TheGrowthMindset.md | https://github.com/MohammadSalhab99/reading-notes/blob/main/intro-to-python-notes |https://github.com/MohammadSalhab99/reading-notes/blob/main/Read6.md
 
