@@ -1,4 +1,4 @@
-## Randome Module 
+## Random Module 
 
 Randome module allows you to access function that support many operation such like generating random numbers. We use it when we want from the computer to pick a random number for a specific task like to generate a random number to complete a list of data , or to pick a random card from a deck etc. 
 
