@@ -37,7 +37,7 @@ __repr__: The “official” string representation of an object. This is how you
 
 __str__: The “informal” or nicely printable string representation of an object. This is for the enduser.
 
-##Conclusion
+## Conclusion
 I hope you feel a little less afraid of dunder methods after reading this article. A strategic use of them makes your classes more Pythonic, because they emulate builtin types with Python-like behaviors.
 
 As with any feature, please don’t overuse it. Operator overloading, for example, can get pretty obscure. Adding “karma” to a person object with +bob or tim << 3 is definitely possible using dunders—but might not be the most obvious or appropriate way to use these special methods. However, for common operations like comparison and additions they can be an elegant approach.
