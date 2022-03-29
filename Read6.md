@@ -3,13 +3,13 @@
 Randome module allows you to access function that support many operation such like generating random numbers. We use it when we want from the computer to pick a random number for a specific task like to generate a random number to complete a list of data , or to pick a random card from a deck etc. 
 
 ## Random functions
-* Randint a function that generates a random integer between two parameters : a lowest and a heghest number. The first value should be less than the seconed 
+* Randint a function that generates a random integer between two parameters : a lowest and a highst number. The first value should be less than the seconed 
 
 * Random: if we want a larger number we can multiply it using the random function
 
-* Choise: generate a random value from a sequence of values or list of values
+* Choice: generate a random value from a sequence of values or list of values
 
-* Shuffle: Shuffels the elements in place in random order.
+* Shuffle: Shuffles the elements in place in random order.
 
 * Randrange: generate a randomly selected element form range(start,stop,step)
 
