@@ -5,9 +5,9 @@ Unit tests are some pieces of code to exercise the input, the output and the beh
 ### The Cycle
 I hope at this time you didn’t give up of this text because this is an example of an important thing about TDD: the cycle.
 The cycle is made by three steps:
-🆘 Write a unit test and make it fail (it needs to fail because the feature isn’t there, right? If this test passes, call the Ghostbusters, really)
-✅ Write the feature and make the test pass! (you can dance after that)
-🔵 Refactor the code — the first version doesn’t need to be the beautiful one (don’t be shy)
+- 🆘 Write a unit test and make it fail (it needs to fail because the feature isn’t there, right? If this test passes, call the Ghostbusters, really)
+- ✅ Write the feature and make the test pass! (you can dance after that)
+- 🔵 Refactor the code — the first version doesn’t need to be the beautiful one (don’t be shy)
 Using baby steps you can go through this cycle every time you add or modify a new feature in your code.
 And talking about feature… let’s do the cycle!
 We made our test fail. Awesome! Now it’s time to implement the feature. Thinking with baby steps, our implementation should follow the same rule, ok? So, what is needed to make this test pass? Don’t think about the whole feature, just about the test.
