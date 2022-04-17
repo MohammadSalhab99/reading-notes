@@ -179,6 +179,6 @@ The try and except block in Python is used to catch and handle exceptions. Pytho
 - A try clause is executed up until the point where the first exception is encountered.
 - Inside the except clause, or the exception handler, you determine how the program responds to the exception.
 - You can anticipate multiple exceptions and differentiate how the program should respond to them.
-  
+- Aoid using bare except clauses.
   source: https://realpython.com/python-exceptions/
-Aoid using bare except clauses.
+
