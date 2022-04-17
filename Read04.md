@@ -1,4 +1,4 @@
-3 Classes and Objects
+# Classes and Objects
 
 Python is an object-oriented programming language. Unlike procedure-oriented programming, where the main emphasis is on functions, object-oriented programming stresses on objects.
 
