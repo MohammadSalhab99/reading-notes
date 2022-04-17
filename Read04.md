@@ -170,6 +170,6 @@ On the command del c1, this binding is removed and the name c1 is deleted from t
 
 This automatic destruction of unreferenced objects in Python is also called garbage collection.
 
-source : https://www.programiz.com/python-programming/class
+source: https://www.programiz.com/python-programming/class
 
 
