@@ -134,10 +134,11 @@ with open('dog_breeds.txt', 'r') as reader:
     # Further file processing goes here
 Other options for modes are fully documented online, but the most commonly used ones are the following:
 
-Character ||	Meaning
-'r'	||Open for reading (default)
-'w'	||Open for writing, truncating (overwriting) the file first
-'rb' or 'wb' ||	Open in binary mode (read/write using byte data)
+Character |	Meaning
+--- | --- 
+'r'	|Open for reading (default)
+'w'	|Open for writing, truncating (overwriting) the file first
+'rb' or 'wb' |	Open in binary mode (read/write using byte data)
 source :https://realpython.com/read-write-files-python/
 
 # Exceptions
