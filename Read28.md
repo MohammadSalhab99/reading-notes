@@ -52,3 +52,6 @@ If any data is invalid, re-display the form, this time with any user populated v
 If all data is valid, perform required actions (such as save the data, send an email, return the result of a search, upload a file, and so on).
 Once all actions are complete, redirect the user to another page.
 Django provides a number of tools and approaches to help you with the tasks detailed above. The most fundamental is the Form class, which simplifies both generation of form HTML and data cleaning/validation. In the next section, we describe how forms work using the practical example of a page to allow librarians to renew books.
+
+## Summary
+Creating and handling forms can be a complicated process! Django makes it much easier by providing programmatic mechanisms to declare, render, and validate forms. Furthermore, Django provides generic form editing views that can do almost all the work to define pages that can create, edit, and delete records associated with a single model instance.
