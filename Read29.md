@@ -278,4 +278,4 @@ Users in the Admin
 Conclusion
 Now that our custom user model is configured you can easily and at any time add additional fields to it. See the Django docs for further instructions.
 
-You can also check out DjangoX, which is an open-source Django starter framework that includes a custom user model, email/password by default instead of username/email/password, social authentication, and more.
+You can also check out DjangoX, which is an open-source Django starter framework that includes a custom user model, email/password by default instead of username/email/password, social authentication, and more. 
